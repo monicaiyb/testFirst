@@ -1,0 +1,28 @@
+{
+  "name": "testfirst",
+  "version": "1.0.0",
+  "description": "TDD group work on Test First vs Test Last\r Group \r Monica Iyabo\r Patricia Nekesa",
+  "main": "factorial.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicaiyb/testFirst.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicaiyb/testFirst/issues"
+  },
+  "homepage": "https://github.com/monicaiyb/testFirst#readme"
+}
